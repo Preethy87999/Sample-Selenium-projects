@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-05T07:50:40 UTC" name="Default suite" finished-at="2023-08-05T07:50:44 UTC" duration-ms="4237">
+    <groups>
+    </groups>
+    <test started-at="2023-08-05T07:50:40 UTC" name="Default test" finished-at="2023-08-05T07:50:44 UTC" duration-ms="4237">
+      <class name="com.simplilearn.Session2.AppTest">
+        <test-method signature="learningWebDriverCommands()[pri:0, instance:com.simplilearn.Session2.AppTest@4b8ee4de]" started-at="2023-08-05T07:50:40 UTC" name="learningWebDriverCommands" finished-at="2023-08-05T07:50:44 UTC" duration-ms="4192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- learningWebDriverCommands -->
+      </class> <!-- com.simplilearn.Session2.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
